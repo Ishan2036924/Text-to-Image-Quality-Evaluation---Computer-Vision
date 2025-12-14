@@ -10,33 +10,30 @@ Date: December 2025
 PROJECT STRUCTURE
 ================================================================================
 
-T2I_Evaluation_Project/
-│
-├── T2I_Evaluation_Notebook.ipynb    # Main Colab notebook (all code)
-├── Final_Report.pdf                  # Written report
-├── README.txt                        # This file
-│
-├── data/
-│   └── prompts.csv                   # 470 text prompts
-│
-├── results/
-│   ├── clip_scores.csv               # CLIP scores for all images
-│   ├── cv_metrics.csv                # OpenCV metrics
-│   ├── fid_is_scores.csv             # Inception Score and FID
-│   ├── combined_metrics.csv          # All metrics merged
-│   └── final_summary.csv             # Summary statistics
-│
-├── plots/
-│   ├── clip_scores.png               # CLIP analysis visualization
-│   ├── opencv_metrics.png            # CV metrics visualization
-│   ├── fid_is_scores.png             # IS and FID visualization
-│   ├── final_summary.png             # Combined summary figure
-│   └── sample_images.png             # Sample generated images
-│
-└── sample_images/                    # 15 example generated images
-    ├── obj_012.png
-    ├── sty_016.png
-    └── ...
+Main Files:
+  - T2I_Evaluation_Notebook.ipynb    → Main Colab notebook with all code
+  - Final_Report.pdf                 → Written report
+  - README.txt                       → This file
+
+Data Folder (data/):
+  - prompts.csv                      → 470 text prompts across 5 categories
+
+Results Folder (results/):
+  - clip_scores.csv                  → CLIP scores for all 470 images
+  - cv_metrics.csv                   → OpenCV metrics (brightness, contrast, etc.)
+  - fid_is_scores.csv                → Inception Score and FID results
+  - combined_metrics.csv             → All metrics merged together
+  - final_summary.csv                → Summary statistics by category
+
+Plots Folder (plots/):
+  - clip_scores.png                  → CLIP score analysis charts
+  - opencv_metrics.png               → OpenCV metrics visualization
+  - fid_is_scores.png                → IS and FID bar charts
+  - final_summary.png                → Combined summary figure
+  - sample_images.png                → Grid of sample generated images
+
+Sample Images Folder (sample_images/):
+  - 15 example generated images (best and worst from each category)
 
 ================================================================================
 HOW TO RUN
