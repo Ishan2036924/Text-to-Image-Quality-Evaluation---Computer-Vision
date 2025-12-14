@@ -1,14 +1,11 @@
-================================================================================
+
 TEXT-TO-IMAGE QUALITY EVALUATION USING COMPUTER VISION METRICS
-================================================================================
 
 Author: Ishan Srivastava
 Course: Computer Vision
 Date: December 2025
 
-================================================================================
 PROJECT STRUCTURE
-================================================================================
 
 Main Files:
   - T2I_Evaluation_Notebook.ipynb    → Main Colab notebook with all code
