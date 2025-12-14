@@ -1,0 +1,471 @@
+prompt_id,category,prompt,clip_score
+obj_001,objects,a red bicycle,0.3190099000930786
+obj_002,objects,a wooden chair,0.3018827736377716
+obj_003,objects,a coffee mug,0.3089735209941864
+obj_004,objects,a laptop computer,0.29675549268722534
+obj_005,objects,a potted plant,0.2986597418785095
+obj_006,objects,a table lamp,0.3248366117477417
+obj_007,objects,a wristwatch,0.288635790348053
+obj_008,objects,a backpack,0.29095637798309326
+obj_009,objects,a guitar,0.3044455051422119
+obj_010,objects,a camera,0.26305755972862244
+obj_011,objects,a pair of scissors,0.3150842487812042
+obj_012,objects,a pencil,0.3571658432483673
+obj_013,objects,a book,0.24026405811309814
+obj_014,objects,a water bottle,0.29132887721061707
+obj_015,objects,a baseball cap,0.29780542850494385
+obj_016,objects,a soccer ball,0.3025455176830292
+obj_017,objects,a teddy bear,0.2726036310195923
+obj_018,objects,an umbrella,0.29682421684265137
+obj_019,objects,a suitcase,0.283180296421051
+obj_020,objects,a telephone,0.2668702304363251
+obj_021,objects,a frying pan,0.29529261589050293
+obj_022,objects,a toaster,0.30369120836257935
+obj_023,objects,a coffee maker,0.30242782831192017
+obj_024,objects,a blender,0.32075798511505127
+obj_025,objects,a cutting board,0.32337498664855957
+obj_026,objects,a wine glass,0.3054625988006592
+obj_027,objects,a ceramic plate,0.3241555690765381
+obj_028,objects,a fork and knife,0.2869294285774231
+obj_029,objects,a tea kettle,0.2992461323738098
+obj_030,objects,a rolling pin,0.3522303104400635
+obj_031,objects,a television,0.2769688665866852
+obj_032,objects,a remote control,0.3167118728160858
+obj_033,objects,a computer mouse,0.31821852922439575
+obj_034,objects,a keyboard,0.27161306142807007
+obj_035,objects,a smartphone,0.24884656071662903
+obj_036,objects,a tablet,0.27905768156051636
+obj_037,objects,headphones,0.2720968723297119
+obj_038,objects,a speaker,0.2868526577949524
+obj_039,objects,a video game controller,0.2942923307418823
+obj_040,objects,a USB cable,0.3291800916194916
+obj_041,objects,a sofa,0.2831532955169678
+obj_042,objects,a bookshelf,0.3186968266963959
+obj_043,objects,a desk,0.28610706329345703
+obj_044,objects,a bed frame,0.28833848237991333
+obj_045,objects,a coffee table,0.32053738832473755
+obj_046,objects,a dining table,0.28121981024742126
+obj_047,objects,a wardrobe,0.28920891880989075
+obj_048,objects,a mirror,0.29315435886383057
+obj_049,objects,a rug,0.31104886531829834
+obj_050,objects,a curtain,0.2869410514831543
+obj_051,objects,a bicycle helmet,0.3263791799545288
+obj_052,objects,a tennis racket,0.30832359194755554
+obj_053,objects,a skateboard,0.2946685254573822
+obj_054,objects,a surfboard,0.31122851371765137
+obj_055,objects,a camping tent,0.3175204396247864
+obj_056,objects,a fishing rod,0.25894784927368164
+obj_057,objects,a garden hose,0.34458011388778687
+obj_058,objects,a wheelbarrow,0.3165334463119507
+obj_059,objects,a lawn mower,0.2965656816959381
+obj_060,objects,a bird feeder,0.3162957727909088
+obj_061,objects,a leather belt,0.29114657640457153
+obj_062,objects,a necktie,0.2959493398666382
+obj_063,objects,a scarf,0.2809077501296997
+obj_064,objects,a pair of sunglasses,0.30602699518203735
+obj_065,objects,a handbag,0.2858867645263672
+obj_066,objects,a wallet,0.29843729734420776
+obj_067,objects,running shoes,0.2629448175430298
+obj_068,objects,a winter jacket,0.31726157665252686
+obj_069,objects,a wool sweater,0.3190329372882843
+obj_070,objects,a pair of jeans,0.2978004217147827
+obj_071,objects,a hammer,0.2662632465362549
+obj_072,objects,a screwdriver,0.3137960433959961
+obj_073,objects,a wrench,0.277030348777771
+obj_074,objects,a drill,0.27744433283805847
+obj_075,objects,a saw,0.296913743019104
+obj_076,objects,a measuring tape,0.294792503118515
+obj_077,objects,a flashlight,0.30447348952293396
+obj_078,objects,a ladder,0.2993985712528229
+obj_079,objects,a toolbox,0.3407785892486572
+obj_080,objects,a paint brush,0.28375768661499023
+obj_081,objects,a pinecone,0.3310397267341614
+obj_082,objects,a seashell,0.31142860651016235
+obj_083,objects,a flower bouquet,0.29597967863082886
+obj_084,objects,a cactus,0.3422747850418091
+obj_085,objects,a bonsai tree,0.3393869996070862
+obj_086,objects,a sunflower,0.3145829439163208
+obj_087,objects,a maple leaf,0.33242499828338623
+obj_088,objects,a bird nest,0.2992662191390991
+obj_089,objects,a butterfly,0.29214733839035034
+obj_090,objects,a ladybug,0.31451350450515747
+obj_091,objects,a loaf of bread,0.30779218673706055
+obj_092,objects,a birthday cake,0.29116547107696533
+obj_093,objects,a pizza slice,0.2842787802219391
+obj_094,objects,a hamburger,0.26396870613098145
+obj_095,objects,an ice cream cone,0.32030215859413147
+obj_096,objects,a bowl of fruit,0.32141053676605225
+obj_097,objects,a cheese wheel,0.2758287191390991
+obj_098,objects,a chocolate bar,0.2978125810623169
+obj_099,objects,a cup of coffee,0.27981358766555786
+obj_100,objects,a glass of orange juice,0.3005618453025818
+att_001,attributes,a shiny ceramic mug,0.3150002062320709
+att_002,attributes,a rusty metal bicycle,0.33399587869644165
+att_003,attributes,a fluffy white cat,0.3372020721435547
+att_004,attributes,a transparent glass vase,0.3413568139076233
+att_005,attributes,a smooth polished stone,0.18526847660541534
+att_006,attributes,a rough wooden table,0.21126437187194824
+att_007,attributes,a soft velvet cushion,0.2050294280052185
+att_008,attributes,a wrinkled old newspaper,0.15955328941345215
+att_009,attributes,a glossy red apple,0.17752017080783844
+att_010,attributes,a matte black smartphone,0.19486618041992188
+att_011,attributes,a colorful striped umbrella,0.1729443073272705
+att_012,attributes,a golden metallic watch,0.16721299290657043
+att_013,attributes,a silver necklace,0.19160674512386322
+att_014,attributes,a blue denim jacket,0.18858657777309418
+att_015,attributes,a green plaid shirt,0.1796136498451233
+att_016,attributes,a purple polka dot dress,0.19857296347618103
+att_017,attributes,a rainbow colored kite,0.17454394698143005
+att_018,attributes,a black and white chess board,0.15972618758678436
+att_019,attributes,a red checkered tablecloth,0.12584099173545837
+att_020,attributes,a multicolored mosaic tile,0.16783103346824646
+att_021,attributes,a dusty antique book,0.2948763966560364
+att_022,attributes,a brand new sports car,0.28069841861724854
+att_023,attributes,a worn leather wallet,0.33217498660087585
+att_024,attributes,a pristine white sneakers,0.3199678063392639
+att_025,attributes,a faded vintage poster,0.27960219979286194
+att_026,attributes,a cracked ceramic pot,0.292641282081604
+att_027,attributes,a tarnished brass doorknob,0.33840855956077576
+att_028,attributes,a freshly painted fence,0.3308183550834656
+att_029,attributes,a weathered wooden bench,0.3297991156578064
+att_030,attributes,a sparkling clean window,0.2714919447898865
+att_031,attributes,a tiny porcelain figurine,0.33833733201026917
+att_032,attributes,a massive oak tree,0.31457602977752686
+att_033,attributes,a miniature toy car,0.32941579818725586
+att_034,attributes,a large canvas painting,0.2996761202812195
+att_035,attributes,a small pocket watch,0.3322911858558655
+att_036,attributes,a giant teddy bear,0.2916441559791565
+att_037,attributes,a compact digital camera,0.3063943088054657
+att_038,attributes,a oversized sunglasses,0.27994948625564575
+att_039,attributes,a thin paperback book,0.2650134265422821
+att_040,attributes,a thick wool blanket,0.3050880432128906
+att_041,attributes,a crystal clear diamond,0.31710004806518555
+att_042,attributes,a marble white sculpture,0.31181851029396057
+att_043,attributes,a bronze horse statue,0.3304808735847473
+att_044,attributes,a ceramic flower pot,0.34538593888282776
+att_045,attributes,a plastic water bottle,0.34337806701660156
+att_046,attributes,a wooden rocking chair,0.3226885199546814
+att_047,attributes,a metal filing cabinet,0.3181222677230835
+att_048,attributes,a glass chandelier,0.33957865834236145
+att_049,attributes,a rubber duck toy,0.3026120066642761
+att_050,attributes,a bamboo cutting board,0.343091756105423
+att_051,attributes,a glowing neon sign,0.32082024216651917
+att_052,attributes,a dim candlelit room,0.2676219940185547
+att_053,attributes,a bright sunny beach,0.26750749349594116
+att_054,attributes,a frozen ice sculpture,0.34330177307128906
+att_055,attributes,a steaming hot coffee,0.275837779045105
+att_056,attributes,a cold glass of lemonade,0.28395020961761475
+att_057,attributes,a warm fireplace,0.2860286235809326
+att_058,attributes,a cool shaded porch,0.31084656715393066
+att_059,attributes,a blazing bonfire,0.28905361890792847
+att_060,attributes,a frosty winter window,0.33361107110977173
+att_061,attributes,a cheerful yellow sunflower,0.3361034393310547
+att_062,attributes,a gloomy gray sky,0.28276950120925903
+att_063,attributes,a peaceful zen garden,0.33890610933303833
+att_064,attributes,an elegant crystal vase,0.331840842962265
+att_065,attributes,a cozy reading nook,0.3458626866340637
+att_066,attributes,a dramatic red curtain,0.3189491927623749
+att_067,attributes,a serene lake reflection,0.29696887731552124
+att_068,attributes,a vibrant market stall,0.3234720230102539
+att_069,attributes,a mysterious dark alley,0.32303574681282043
+att_070,attributes,a romantic candlelit dinner,0.29534053802490234
+att_071,attributes,a small rusty key,0.32917213439941406
+att_072,attributes,a large fluffy pillow,0.2739824056625366
+att_073,attributes,a old wooden music box,0.33719122409820557
+att_074,attributes,a new shiny bicycle,0.28628820180892944
+att_075,attributes,a tiny delicate teacup,0.3060760796070099
+att_076,attributes,a huge ancient tree,0.2951544523239136
+att_077,attributes,a soft warm blanket,0.23825746774673462
+att_078,attributes,a hard cold marble floor,0.34175288677215576
+att_079,attributes,a light airy curtain,0.326801598072052
+att_080,attributes,a heavy ornate chandelier,0.33166050910949707
+att_081,attributes,a fuzzy green tennis ball,0.33397066593170166
+att_082,attributes,a sleek modern laptop,0.3072865605354309
+att_083,attributes,a bumpy orange peel,0.29686474800109863
+att_084,attributes,a silky blue ribbon,0.32744646072387695
+att_085,attributes,a coarse sand paper,0.32476919889450073
+att_086,attributes,a smooth river stone,0.3529071807861328
+att_087,attributes,a prickly cactus plant,0.3147549629211426
+att_088,attributes,a feathery peacock tail,0.32840293645858765
+att_089,attributes,a scaly fish skin,0.3081221580505371
+att_090,attributes,a spongy yellow cheese,0.2869507074356079
+rel_001,relations,a cat sitting on a sofa,0.2744998335838318
+rel_002,relations,a book on a wooden table,0.27838778495788574
+rel_003,relations,a lamp next to a bed,0.3095501661300659
+rel_004,relations,a cup on a saucer,0.31109583377838135
+rel_005,relations,a bird perched on a branch,0.30348578095436096
+rel_006,relations,a clock hanging on a wall,0.3503990173339844
+rel_007,relations,a dog lying under a tree,0.29962801933288574
+rel_008,relations,a vase in front of a window,0.3295864760875702
+rel_009,relations,a phone beside a laptop,0.24776151776313782
+rel_010,relations,a hat on a person's head,0.27952760457992554
+rel_011,relations,a painting above a fireplace,0.3556888997554779
+rel_012,relations,a rug under a coffee table,0.1714189350605011
+rel_013,relations,a chandelier above a dining table,0.1851631999015808
+rel_014,relations,a shelf above a desk,0.16524970531463623
+rel_015,relations,a cat under a chair,0.1303233653306961
+rel_016,relations,a plane above the clouds,0.10683845728635788
+rel_017,relations,a submarine below the water,0.13931423425674438
+rel_018,relations,a bird above a lake,0.14432169497013092
+rel_019,relations,a treasure under the sand,0.17906248569488525
+rel_020,relations,a rainbow above a mountain,0.09714268893003464
+rel_021,relations,a ball inside a basket,0.315902441740036
+rel_022,relations,a flower in a vase,0.3050212264060974
+rel_023,relations,a key on a keychain,0.32660967111587524
+rel_024,relations,a fish inside a bowl,0.29833149909973145
+rel_025,relations,a bird inside a cage,0.30389517545700073
+rel_026,relations,a car inside a garage,0.2887888252735138
+rel_027,relations,a person inside a phone booth,0.3158302307128906
+rel_028,relations,a letter inside an envelope,0.30467653274536133
+rel_029,relations,a coin inside a jar,0.30591633915901184
+rel_030,relations,a plant inside a terrarium,0.3136114180088043
+rel_031,relations,a pen on a notebook,0.2944513261318207
+rel_032,relations,a pillow on a chair,0.2830135226249695
+rel_033,relations,a shoe under a bed,0.30503833293914795
+rel_034,relations,a bag next to a door,0.3131960928440094
+rel_035,relations,a glass on a coaster,0.2713150382041931
+rel_036,relations,a watch on a wrist,0.269546777009964
+rel_037,relations,a book between two bookends,0.28597378730773926
+rel_038,relations,a child between two parents,0.26710671186447144
+rel_039,relations,a house between two trees,0.2958466410636902
+rel_040,relations,a river between two mountains,0.30201226472854614
+rel_041,relations,a person in front of a building,0.28386926651000977
+rel_042,relations,a car behind a truck,0.23872199654579163
+rel_043,relations,a dog in front of a house,0.32427120208740234
+rel_044,relations,a tree behind a fence,0.25423118472099304
+rel_045,relations,a statue in front of a museum,0.29040372371673584
+rel_046,relations,a boat behind an island,0.28597190976142883
+rel_047,relations,a moon behind clouds,0.31014180183410645
+rel_048,relations,a sun behind mountains,0.27638524770736694
+rel_049,relations,a person behind a counter,0.25943946838378906
+rel_050,relations,a cat behind a curtain,0.2724218964576721
+rel_051,relations,a laptop on a desk near a window,0.2910082936286926
+rel_052,relations,a cat sleeping on a pillow on a bed,0.29535168409347534
+rel_053,relations,flowers in a vase on a table by the window,0.32484278082847595
+rel_054,relations,books stacked on a shelf above a fireplace,0.3103873133659363
+rel_055,relations,a dog sitting next to a person on a bench,0.30236464738845825
+rel_056,relations,a bird flying over a lake near mountains,0.32331135869026184
+rel_057,relations,a car parked in front of a house with a garden,0.3117460012435913
+rel_058,relations,a child playing under a tree in a park,0.3404124975204468
+rel_059,relations,a coffee cup on a saucer on a wooden table,0.3002428114414215
+rel_060,relations,a painting hanging above a sofa in a living room,0.32914191484451294
+rel_061,relations,a bridge over a river,0.2905437648296356
+rel_062,relations,a tunnel through a mountain,0.27590519189834595
+rel_063,relations,a path along a beach,0.30112260580062866
+rel_064,relations,a fence around a garden,0.3029824495315552
+rel_065,relations,a frame around a picture,0.2746613323688507
+rel_066,relations,a border around a page,0.2646186351776123
+rel_067,relations,a ring around a finger,0.31029337644577026
+rel_068,relations,a scarf around a neck,0.2943868637084961
+rel_069,relations,a belt around a waist,0.30298912525177
+rel_070,relations,a leash around a dog,0.3152744174003601
+rel_071,relations,a person walking towards a door,0.3051295280456543
+rel_072,relations,a car driving away from a city,0.26378121972084045
+rel_073,relations,a bird flying into a tree,0.31324467062950134
+rel_074,relations,a ball rolling down a hill,0.3325044810771942
+rel_075,relations,a leaf falling from a branch,0.3260084390640259
+rel_076,relations,smoke rising from a chimney,0.3343278765678406
+rel_077,relations,water flowing over rocks,0.298444539308548
+rel_078,relations,light shining through a window,0.2917773723602295
+rel_079,relations,shadows cast across a floor,0.2835843861103058
+rel_080,relations,reflections in a puddle,0.30318933725357056
+rel_081,relations,a family gathered around a dinner table,0.27915075421333313
+rel_082,relations,students sitting in rows in a classroom,0.31392496824264526
+rel_083,relations,boats floating on a calm harbor,0.30792519450187683
+rel_084,relations,mountains reflected in a still lake,0.3227216303348541
+rel_085,relations,stars scattered across the night sky,0.273013174533844
+rel_086,relations,leaves covering a forest floor,0.31264999508857727
+rel_087,relations,clouds drifting across a blue sky,0.2879907488822937
+rel_088,relations,waves crashing against rocky shores,0.28201228380203247
+rel_089,relations,birds perched along a telephone wire,0.3424740433692932
+rel_090,relations,flowers blooming along a garden path,0.31472402811050415
+cou_001,counting,one red apple on a plate,0.23430997133255005
+cou_002,counting,two cats sitting together,0.16270199418067932
+cou_003,counting,three flowers in a vase,0.1823289394378662
+cou_004,counting,one tall tree in a field,0.16535764932632446
+cou_005,counting,two birds on a branch,0.17602406442165375
+cou_006,counting,three candles on a cake,0.20271006226539612
+cou_007,counting,one boat on a lake,0.12144681811332703
+cou_008,counting,two shoes on the floor,0.19320131838321686
+cou_009,counting,three books on a shelf,0.2216917723417282
+cou_010,counting,one sun in the sky,0.14860312640666962
+cou_011,counting,four books stacked together,0.20078611373901367
+cou_012,counting,five colorful balloons,0.17515966296195984
+cou_013,counting,six pencils in a cup,0.18420861661434174
+cou_014,counting,four chairs around a table,0.1780587136745453
+cou_015,counting,five fingers on a hand,0.1877090036869049
+cou_016,counting,six eggs in a carton,0.17733871936798096
+cou_017,counting,four wheels on a car,0.21098271012306213
+cou_018,counting,five petals on a flower,0.22460439801216125
+cou_019,counting,six strings on a guitar,0.16945050656795502
+cou_020,counting,four legs on a dog,0.25078871846199036
+cou_021,counting,seven stars in the sky,0.28591427206993103
+cou_022,counting,eight tentacles on an octopus,0.2671126425266266
+cou_023,counting,nine planets in space,0.33423474431037903
+cou_024,counting,ten fingers on two hands,0.25838136672973633
+cou_025,counting,seven colors in a rainbow,0.27536842226982117
+cou_026,counting,eight slices of pizza,0.262743204832077
+cou_027,counting,nine squares in a grid,0.29656511545181274
+cou_028,counting,ten bowling pins,0.2914355397224426
+cou_029,counting,seven days on a calendar,0.2844979465007782
+cou_030,counting,eight windows on a building,0.3129422664642334
+cou_031,counting,a pair of glasses,0.2879152297973633
+cou_032,counting,a pair of socks,0.31118184328079224
+cou_033,counting,a set of keys,0.32093268632888794
+cou_034,counting,a deck of cards,0.2907773554325104
+cou_035,counting,a bunch of grapes,0.29204288125038147
+cou_036,counting,a flock of birds,0.30706191062927246
+cou_037,counting,a herd of sheep,0.3034120500087738
+cou_038,counting,a school of fish,0.31496182084083557
+cou_039,counting,a swarm of bees,0.29518523812294006
+cou_040,counting,a pack of wolves,0.322451651096344
+cou_041,counting,three oranges on a plate,0.3454703986644745
+cou_042,counting,two red apples and one green apple,0.28825080394744873
+cou_043,counting,five birds on a wire,0.3254029154777527
+cou_044,counting,four cookies on a plate,0.2916347086429596
+cou_045,counting,six fish in a bowl,0.3224779963493347
+cou_046,counting,three trees in a row,0.30646997690200806
+cou_047,counting,two bicycles parked together,0.2933914065361023
+cou_048,counting,four butterflies flying,0.318543940782547
+cou_049,counting,three puppies playing,0.3377513587474823
+cou_050,counting,five ducks in a pond,0.30934789776802063
+cou_051,counting,two slices of bread,0.2926577925682068
+cou_052,counting,three scoops of ice cream,0.2748602628707886
+cou_053,counting,four pieces of sushi,0.2998836636543274
+cou_054,counting,five strawberries in a bowl,0.29386794567108154
+cou_055,counting,six donuts in a box,0.31310194730758667
+cou_056,counting,two cups of coffee,0.2930316925048828
+cou_057,counting,three cupcakes on a stand,0.3033326268196106
+cou_058,counting,four slices of pizza,0.2844051718711853
+cou_059,counting,five cherries on top,0.2929421663284302
+cou_060,counting,two sandwiches on a plate,0.28726887702941895
+cou_061,counting,three pencils and two erasers,0.28548192977905273
+cou_062,counting,four red balls and two blue balls,0.30592697858810425
+cou_063,counting,five tall buildings,0.29316574335098267
+cou_064,counting,six windows in a row,0.31334927678108215
+cou_065,counting,two doors side by side,0.29169660806655884
+cou_066,counting,three stairs going up,0.28733062744140625
+cou_067,counting,four picture frames on a wall,0.3466912508010864
+cou_068,counting,five coins on a table,0.30675214529037476
+cou_069,counting,two clocks showing different times,0.3251357078552246
+cou_070,counting,three mirrors reflecting,0.2796299159526825
+cou_071,counting,four seasons in pictures,0.31534135341644287
+cou_072,counting,three mountain peaks,0.30063414573669434
+cou_073,counting,two rivers meeting,0.27622270584106445
+cou_074,counting,five clouds in the sky,0.2778016924858093
+cou_075,counting,four leaves on a stem,0.2815479338169098
+cou_076,counting,six waves on a beach,0.28326845169067383
+cou_077,counting,three stones stacked,0.31279581785202026
+cou_078,counting,two rainbows crossing,0.28620803356170654
+cou_079,counting,four trees in autumn,0.3006722629070282
+cou_080,counting,five snowflakes falling,0.30074983835220337
+cou_081,counting,two horses running,0.29480040073394775
+cou_082,counting,three elephants walking,0.32705122232437134
+cou_083,counting,four penguins standing,0.331895649433136
+cou_084,counting,five flamingos in water,0.3178950548171997
+cou_085,counting,six ladybugs on a leaf,0.34444642066955566
+cou_086,counting,two owls on a branch,0.3272189497947693
+cou_087,counting,three frogs on lily pads,0.34383314847946167
+cou_088,counting,four rabbits in grass,0.32690513134002686
+cou_089,counting,five goldfish swimming,0.32279297709465027
+cou_090,counting,two turtles on a log,0.34496209025382996
+cou_091,counting,seven musical notes,0.24574095010757446
+cou_092,counting,eight chess pieces,0.2859312891960144
+cou_093,counting,nine circles in a pattern,0.31390756368637085
+cou_094,counting,ten dots in two rows,0.30126482248306274
+cou_095,counting,three hearts in a row,0.28024694323539734
+cou_096,counting,four arrows pointing,0.278751939535141
+cou_097,counting,five gears interlocking,0.29688772559165955
+cou_098,counting,six hexagons together,0.31110677123069763
+cou_099,counting,two triangles overlapping,0.27287405729293823
+cou_100,counting,four squares in a grid,0.2618466019630432
+sty_001,styles,a watercolor painting of a mountain,0.3405682146549225
+sty_002,styles,an oil painting of a sunset,0.3523029088973999
+sty_003,styles,a pencil sketch of a portrait,0.3194960355758667
+sty_004,styles,an impressionist painting of a garden,0.14693012833595276
+sty_005,styles,a realistic painting of a tiger,0.1666470468044281
+sty_006,styles,a charcoal drawing of a tree,0.17628538608551025
+sty_007,styles,a pastel drawing of flowers,0.13020500540733337
+sty_008,styles,a renaissance painting of angels,0.16491782665252686
+sty_009,styles,a baroque painting of a feast,0.17903929948806763
+sty_010,styles,an acrylic painting of the ocean,0.2150750607252121
+sty_011,styles,a digital art of a city,0.1710166335105896
+sty_012,styles,an abstract painting with circles,0.19808970391750336
+sty_013,styles,a pop art portrait,0.19901791214942932
+sty_014,styles,a cubist painting of a face,0.2239399254322052
+sty_015,styles,a surrealist painting of a clock,0.23323193192481995
+sty_016,styles,a minimalist design of a chair,0.16202199459075928
+sty_017,styles,a pixel art of a spaceship,0.1529211550951004
+sty_018,styles,a vector illustration of a logo,0.21337106823921204
+sty_019,styles,a graffiti style mural,0.1917397677898407
+sty_020,styles,a contemporary art installation,0.16526709496974945
+sty_021,styles,a photograph of a beach,0.2747480869293213
+sty_022,styles,a vintage photograph of a street,0.31756672263145447
+sty_023,styles,a black and white photograph of a person,0.2539529502391815
+sty_024,styles,a macro photograph of an insect,0.3010045289993286
+sty_025,styles,a long exposure photograph of stars,0.3156229853630066
+sty_026,styles,a portrait photograph with bokeh,0.2884231209754944
+sty_027,styles,a landscape photograph at golden hour,0.2971615791320801
+sty_028,styles,a street photography scene,0.27357548475265503
+sty_029,styles,an aerial photograph of a city,0.3045763075351715
+sty_030,styles,an underwater photograph of coral,0.3068068027496338
+sty_031,styles,a cartoon drawing of a robot,0.3111169934272766
+sty_032,styles,a manga style drawing of a hero,0.3030891716480255
+sty_033,styles,a comic book illustration of a superhero,0.2769946753978729
+sty_034,styles,a children's book illustration of animals,0.3276916742324829
+sty_035,styles,a botanical illustration of a rose,0.28344982862472534
+sty_036,styles,a scientific illustration of anatomy,0.29047930240631104
+sty_037,styles,a fashion illustration of a dress,0.33388522267341614
+sty_038,styles,a architectural drawing of a building,0.31244271993637085
+sty_039,styles,a technical drawing of a machine,0.3434544801712036
+sty_040,styles,a storyboard sketch of a scene,0.3286736309528351
+sty_041,styles,a japanese ink wash painting of bamboo,0.34663212299346924
+sty_042,styles,a chinese calligraphy artwork,0.3365621566772461
+sty_043,styles,an indian mandala design,0.31456196308135986
+sty_044,styles,an african tribal pattern,0.2884176969528198
+sty_045,styles,a native american dreamcatcher art,0.3547042906284332
+sty_046,styles,a celtic knot design,0.3562107980251312
+sty_047,styles,a persian miniature painting,0.3324231207370758
+sty_048,styles,a mexican folk art skull,0.3386054039001465
+sty_049,styles,an australian aboriginal dot painting,0.3161498010158539
+sty_050,styles,a greek mosaic pattern,0.30776309967041016
+sty_051,styles,a photorealistic rendering of a car,0.30795353651046753
+sty_052,styles,a 3D render of a room,0.29202139377593994
+sty_053,styles,a low poly art of a deer,0.3836743235588074
+sty_054,styles,an isometric illustration of a house,0.3447803258895874
+sty_055,styles,a flat design icon set,0.317834734916687
+sty_056,styles,a neon light art sign,0.3162890672683716
+sty_057,styles,a holographic display design,0.28409022092819214
+sty_058,styles,a wireframe model of a chair,0.33835098147392273
+sty_059,styles,a voxel art castle,0.3267591595649719
+sty_060,styles,a tilt shift photograph of a city,0.3623397946357727
+sty_061,styles,an art nouveau poster design,0.33373013138771057
+sty_062,styles,an art deco building facade,0.3014669418334961
+sty_063,styles,a victorian era portrait,0.2764180302619934
+sty_064,styles,a medieval illuminated manuscript,0.32591551542282104
+sty_065,styles,a 1950s advertisement style,0.2913086414337158
+sty_066,styles,a 1980s synthwave aesthetic,0.33057624101638794
+sty_067,styles,a retro futuristic scene,0.3188546895980835
+sty_068,styles,a steampunk mechanical device,0.34283798933029175
+sty_069,styles,a cyberpunk city street,0.33959776163101196
+sty_070,styles,a vaporwave aesthetic image,0.29677507281303406
+sty_071,styles,an embroidery design of flowers,0.3798547685146332
+sty_072,styles,a stained glass window design,0.32788729667663574
+sty_073,styles,a wood carving of an animal,0.32259637117385864
+sty_074,styles,a metal sculpture of a figure,0.3054523468017578
+sty_075,styles,a sand art mandala,0.3697567880153656
+sty_076,styles,a chalk art on pavement,0.32589131593704224
+sty_077,styles,a paper cut art silhouette,0.3546987771987915
+sty_078,styles,a collage of magazine clippings,0.2960662841796875
+sty_079,styles,a mosaic tile artwork,0.33365678787231445
+sty_080,styles,a tapestry weaving pattern,0.3182640075683594
+sty_081,styles,a double exposure photograph,0.28012311458587646
+sty_082,styles,a glitch art portrait,0.341172993183136
+sty_083,styles,a cyanotype botanical print,0.3621405363082886
+sty_084,styles,a linocut print of a landscape,0.3651335835456848
+sty_085,styles,an etching of a cityscape,0.3411562144756317
+sty_086,styles,a woodblock print of waves,0.3471820056438446
+sty_087,styles,a screen print poster,0.2945866286754608
+sty_088,styles,a risograph printed zine cover,0.32319530844688416
+sty_089,styles,a lenticular animated image,0.3004007935523987
+sty_090,styles,an augmented reality overlay,0.2621012330055237

@@ -1,0 +1,7 @@
+Metric,Value,Notes
+CLIP Score,0.2891,Good alignment (expected 0.25-0.35)
+Inception Score,16.49 +/- 3.07,Excellent quality and diversity
+FID Score,156.36,Higher due to artistic prompts vs COCO photos
+Brightness,115.94,Mid-range brightness
+Contrast,58.74,Good dynamic range
+Saturation,86.40,Healthy color vibrancy

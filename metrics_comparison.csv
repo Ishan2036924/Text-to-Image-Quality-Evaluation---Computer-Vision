@@ -1,0 +1,4 @@
+Metric,Our Result,Literature Range (SD v1.5),Our Status,Interpretation
+CLIP Score,0.2891,0.25 - 0.35,✓ Good,Strong text-image alignment
+Inception Score,16.49 ± 3.07,6 - 12,✓ Excellent,High quality and diversity
+FID Score,156.36,25 - 50*,△ See Note,Reflects diverse prompt categories

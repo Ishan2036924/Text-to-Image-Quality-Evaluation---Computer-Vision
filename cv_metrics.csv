@@ -1,0 +1,471 @@
+prompt_id,category,prompt,brightness,contrast,edge_density,saturation,mean_red,mean_green,mean_blue,width,height
+obj_001,objects,a red bicycle,97.98,58.41,0.1181,94.98,121.09,89.03,83.42,512,512
+obj_002,objects,a wooden chair,142.47,76.53,0.0223,39.67,149.19,139.72,139.34,512,512
+obj_003,objects,a coffee mug,113.03,42.71,0.0104,75.42,130.07,108.51,91.56,512,512
+obj_004,objects,a laptop computer,130.23,59.16,0.029,67.4,135.24,129.48,120.99,512,512
+obj_005,objects,a potted plant,129.18,71.22,0.0722,78.17,125.68,133.25,117.4,512,512
+obj_006,objects,a table lamp,142.2,42.97,0.0208,31.58,149.82,139.81,134.54,512,512
+obj_007,objects,a wristwatch,120.56,78.78,0.1114,67.91,130.12,117.66,110.49,512,512
+obj_008,objects,a backpack,113.51,62.18,0.0312,81.21,110.91,114.43,115.56,512,512
+obj_009,objects,a guitar,85.27,82.16,0.2365,128.25,86.98,87.72,68.06,512,512
+obj_010,objects,a camera,95.39,55.02,0.0763,78.23,101.91,93.77,86.63,512,512
+obj_011,objects,a pair of scissors,96.18,58.6,0.0252,92.37,117.99,87.75,82.36,512,512
+obj_012,objects,a pencil,121.54,35.43,0.1636,113.67,146.32,116.54,82.27,512,512
+obj_013,objects,a book,114.49,76.65,0.1757,128.19,124.71,113.63,92.09,512,512
+obj_014,objects,a water bottle,101.47,33.62,0.027,59.81,112.57,96.37,98.74,512,512
+obj_015,objects,a baseball cap,108.34,45.7,0.0299,48.93,110.75,108.01,103.96,512,512
+obj_016,objects,a soccer ball,120.29,49.26,0.3027,34.69,124.33,119.98,111.24,512,512
+obj_017,objects,a teddy bear,113.5,87.08,0.0582,124.63,132.92,107.93,91.24,512,512
+obj_018,objects,an umbrella,107.44,47.5,0.1055,102.07,121.77,101.54,100.23,512,512
+obj_019,objects,a suitcase,109.99,51.32,0.0393,72.9,121.33,106.84,96.43,512,512
+obj_020,objects,a telephone,127.85,58.32,0.152,40.16,122.95,128.17,138.93,512,512
+obj_021,objects,a frying pan,110.12,47.4,0.0287,43.81,112.29,108.69,111.97,512,512
+obj_022,objects,a toaster,112.37,66.72,0.0368,95.52,129.38,107.64,92.11,512,512
+obj_023,objects,a coffee maker,115.54,72.05,0.0458,61.69,127.5,112.15,101.67,512,512
+obj_024,objects,a blender,125.31,46.18,0.0432,54.77,130.41,124.73,114.92,512,512
+obj_025,objects,a cutting board,116.89,46.12,0.1254,146.96,150.76,108.37,71.96,512,512
+obj_026,objects,a wine glass,133.31,37.85,0.014,44.72,145.94,128.8,123.56,512,512
+obj_027,objects,a ceramic plate,144.16,61.38,0.2001,45.33,136.03,148.1,145.26,512,512
+obj_028,objects,a fork and knife,95.99,64.72,0.2418,35.68,102.27,94.46,87.38,512,512
+obj_029,objects,a tea kettle,99.14,49.53,0.0284,107.25,116.34,94.6,77.38,512,512
+obj_030,objects,a rolling pin,134.22,29.65,0.0049,32.34,140.72,132.96,123.63,512,512
+obj_031,objects,a television,130.08,70.83,0.0941,51.67,130.48,130.9,124.76,512,512
+obj_032,objects,a remote control,109.38,40.51,0.2062,56.34,122.14,105.77,94.71,512,512
+obj_033,objects,a computer mouse,113.05,56.68,0.0154,79.32,131.4,107.21,94.82,512,512
+obj_034,objects,a keyboard,126.92,72.33,0.0464,21.0,127.95,126.26,127.57,512,512
+obj_035,objects,a smartphone,115.38,39.0,0.1122,90.09,110.97,118.68,109.92,512,512
+obj_036,objects,a tablet,107.64,75.21,0.1747,78.42,112.84,103.52,115.15,512,512
+obj_037,objects,headphones,114.93,82.44,0.1248,65.35,124.8,111.26,107.87,512,512
+obj_038,objects,a speaker,132.48,61.38,0.0189,14.59,133.76,132.24,130.73,512,512
+obj_039,objects,a video game controller,95.43,54.67,0.0319,89.41,113.11,88.68,83.88,512,512
+obj_040,objects,a USB cable,135.32,33.43,0.013,8.98,135.58,134.84,137.35,512,512
+obj_041,objects,a sofa,111.54,70.57,0.103,101.74,124.79,109.58,86.83,512,512
+obj_042,objects,a bookshelf,124.53,64.11,0.0726,71.24,136.82,120.83,111.33,512,512
+obj_043,objects,a desk,100.43,38.56,0.0329,50.25,106.31,98.41,95.36,512,512
+obj_044,objects,a bed frame,119.77,72.97,0.0908,41.39,127.43,117.17,113.1,512,512
+obj_045,objects,a coffee table,125.17,67.33,0.0675,88.78,127.81,124.44,122.01,512,512
+obj_046,objects,a dining table,106.32,46.43,0.0172,99.01,123.44,102.38,81.7,512,512
+obj_047,objects,a wardrobe,116.93,69.7,0.0445,80.91,131.2,111.62,106.88,512,512
+obj_048,objects,a mirror,113.35,76.84,0.0684,55.21,117.76,112.52,106.16,512,512
+obj_049,objects,a rug,79.71,48.33,0.2753,91.4,93.08,75.2,67.88,512,512
+obj_050,objects,a curtain,110.21,65.33,0.1019,43.53,113.77,109.27,105.72,512,512
+obj_051,objects,a bicycle helmet,103.69,76.91,0.1034,113.26,119.9,96.67,97.34,512,512
+obj_052,objects,a tennis racket,97.8,40.66,0.0649,26.47,99.18,97.9,93.73,512,512
+obj_053,objects,a skateboard,126.49,70.52,0.0367,86.21,138.88,123.85,107.63,512,512
+obj_054,objects,a surfboard,111.43,53.0,0.0128,75.57,121.77,109.88,92.31,512,512
+obj_055,objects,a camping tent,118.02,68.38,0.199,92.17,119.31,122.16,93.31,512,512
+obj_056,objects,a fishing rod,104.07,49.13,0.088,54.14,111.51,102.19,94.22,512,512
+obj_057,objects,a garden hose,103.74,65.9,0.209,133.39,104.0,109.52,73.24,512,512
+obj_058,objects,a wheelbarrow,113.71,63.71,0.2423,137.75,112.99,117.69,95.11,512,512
+obj_059,objects,a lawn mower,140.69,70.26,0.2156,88.71,142.61,143.94,118.9,512,512
+obj_060,objects,a bird feeder,114.55,64.87,0.0841,78.31,120.53,114.76,97.81,512,512
+obj_061,objects,a leather belt,123.58,49.4,0.0253,73.15,141.7,117.0,109.97,512,512
+obj_062,objects,a necktie,88.46,55.08,0.1766,128.58,107.89,83.01,65.53,512,512
+obj_063,objects,a scarf,119.74,58.47,0.064,99.56,131.62,115.59,109.96,512,512
+obj_064,objects,a pair of sunglasses,102.19,52.02,0.163,140.05,112.79,99.91,86.12,512,512
+obj_065,objects,a handbag,117.66,51.0,0.0514,96.1,105.68,123.0,121.57,512,512
+obj_066,objects,a wallet,94.36,42.31,0.0366,107.02,121.74,86.2,64.59,512,512
+obj_067,objects,running shoes,114.89,59.41,0.0865,54.85,120.64,113.16,108.65,512,512
+obj_068,objects,a winter jacket,88.75,35.13,0.1264,65.86,91.79,86.55,92.11,512,512
+obj_069,objects,a wool sweater,110.56,78.57,0.135,22.79,112.43,110.24,107.17,512,512
+obj_070,objects,a pair of jeans,119.13,59.2,0.0666,177.39,138.48,115.04,89.42,512,512
+obj_071,objects,a hammer,99.28,47.01,0.2063,47.41,108.15,96.28,91.41,512,512
+obj_072,objects,a screwdriver,105.0,23.43,0.0099,16.18,108.94,104.02,99.83,512,512
+obj_073,objects,a wrench,114.88,50.96,0.1889,30.85,111.27,115.02,123.62,512,512
+obj_074,objects,a drill,124.02,38.63,0.0221,3.52,124.57,123.74,124.43,512,512
+obj_075,objects,a saw,110.27,52.19,0.0636,66.91,124.58,105.2,98.91,512,512
+obj_076,objects,a measuring tape,110.2,34.94,0.0386,83.45,128.27,103.69,96.41,512,512
+obj_077,objects,a flashlight,107.62,48.21,0.2598,59.6,115.18,107.92,86.24,512,512
+obj_078,objects,a ladder,99.2,51.59,0.1832,52.42,104.74,97.88,91.44,512,512
+obj_079,objects,a toolbox,92.79,55.47,0.1037,70.99,117.07,83.06,79.28,512,512
+obj_080,objects,a paint brush,120.68,57.56,0.1747,92.11,120.39,122.19,113.66,512,512
+obj_081,objects,a pinecone,123.3,56.87,0.1069,89.37,141.74,119.62,93.9,512,512
+obj_082,objects,a seashell,106.79,25.69,0.0373,63.04,120.37,102.99,90.81,512,512
+obj_083,objects,a flower bouquet,116.69,58.0,0.1272,97.38,127.62,115.98,91.66,512,512
+obj_084,objects,a cactus,119.31,32.08,0.0627,65.04,129.48,116.99,104.61,512,512
+obj_085,objects,a bonsai tree,127.66,62.64,0.1795,104.28,122.84,133.43,110.63,512,512
+obj_086,objects,a sunflower,120.63,37.35,0.0858,91.27,134.56,119.4,90.45,512,512
+obj_087,objects,a maple leaf,116.27,68.65,0.1654,234.42,137.12,121.11,36.71,512,512
+obj_088,objects,a bird nest,96.89,56.64,0.1647,101.09,105.4,97.28,72.52,512,512
+obj_089,objects,a butterfly,126.32,55.21,0.0464,153.72,117.36,132.39,118.63,512,512
+obj_090,objects,a ladybug,131.13,50.14,0.1651,41.46,142.69,126.8,123.11,512,512
+obj_091,objects,a loaf of bread,98.47,58.38,0.0264,146.45,125.73,90.98,65.56,512,512
+obj_092,objects,a birthday cake,124.04,59.56,0.0423,80.62,134.27,116.87,134.08,512,512
+obj_093,objects,a pizza slice,131.55,72.83,0.0849,88.3,154.65,123.5,112.36,512,512
+obj_094,objects,a hamburger,127.94,50.09,0.0408,91.85,148.15,120.69,112.24,512,512
+obj_095,objects,an ice cream cone,91.51,47.53,0.0292,110.85,119.95,77.13,90.81,512,512
+obj_096,objects,a bowl of fruit,105.18,81.15,0.0629,192.26,138.76,97.46,56.83,512,512
+obj_097,objects,a cheese wheel,94.97,59.08,0.0555,80.6,109.44,92.26,70.97,512,512
+obj_098,objects,a chocolate bar,115.99,79.94,0.0587,127.45,142.95,105.78,97.86,512,512
+obj_099,objects,a cup of coffee,112.89,67.28,0.1875,81.17,126.36,108.49,100.2,512,512
+obj_100,objects,a glass of orange juice,123.97,43.77,0.0269,44.3,130.18,124.27,106.08,512,512
+att_001,attributes,a shiny ceramic mug,119.58,45.86,0.021,121.63,130.22,118.49,97.33,512,512
+att_002,attributes,a rusty metal bicycle,123.36,59.68,0.1346,81.44,123.39,122.77,126.35,512,512
+att_003,attributes,a fluffy white cat,122.8,63.79,0.0294,33.58,125.11,122.48,118.4,512,512
+att_004,attributes,a transparent glass vase,124.29,42.11,0.0571,89.29,137.73,123.44,93.39,512,512
+att_005,attributes,a smooth polished stone,105.57,69.27,0.0688,111.02,124.62,102.15,73.21,512,512
+att_006,attributes,a rough wooden table,129.31,64.8,0.1834,181.35,135.42,127.97,120.15,512,512
+att_007,attributes,a soft velvet cushion,107.33,46.48,0.0788,55.45,113.9,104.26,105.92,512,512
+att_008,attributes,a wrinkled old newspaper,101.2,50.75,0.0279,78.89,119.39,94.5,88.09,512,512
+att_009,attributes,a glossy red apple,106.16,57.7,0.0376,95.18,119.12,102.21,92.54,512,512
+att_010,attributes,a matte black smartphone,124.31,38.25,0.0233,53.49,126.76,123.68,121.08,512,512
+att_011,attributes,a colorful striped umbrella,104.15,68.01,0.1553,148.92,116.78,103.94,72.15,512,512
+att_012,attributes,a golden metallic watch,124.04,47.68,0.2589,54.19,132.13,122.84,109.0,512,512
+att_013,attributes,a silver necklace,118.64,35.66,0.291,55.22,129.26,116.45,102.04,512,512
+att_014,attributes,a blue denim jacket,144.98,70.56,0.0938,43.67,151.76,144.11,131.7,512,512
+att_015,attributes,a green plaid shirt,119.9,54.67,0.0185,113.58,154.88,105.06,104.52,512,512
+att_016,attributes,a purple polka dot dress,91.34,29.59,0.0036,109.44,109.29,87.53,63.81,512,512
+att_017,attributes,a rainbow colored kite,141.9,61.29,0.0487,36.52,138.64,142.46,148.27,512,512
+att_018,attributes,a black and white chess board,115.19,61.1,0.093,101.83,106.75,116.21,132.05,512,512
+att_019,attributes,a red checkered tablecloth,107.47,62.24,0.1556,51.04,114.02,105.88,98.47,512,512
+att_020,attributes,a multicolored mosaic tile,105.64,56.47,0.0341,84.95,114.76,103.64,92.09,512,512
+att_021,attributes,a dusty antique book,104.14,70.44,0.1059,128.61,123.78,99.85,74.67,512,512
+att_022,attributes,a brand new sports car,127.79,50.31,0.0494,10.74,128.62,127.4,127.7,512,512
+att_023,attributes,a worn leather wallet,97.76,43.45,0.1837,116.8,122.4,90.37,71.24,512,512
+att_024,attributes,a pristine white sneakers,142.53,56.16,0.022,50.59,147.85,140.76,137.76,512,512
+att_025,attributes,a faded vintage poster,125.99,60.71,0.0561,92.31,140.3,123.89,99.27,512,512
+att_026,attributes,a cracked ceramic pot,130.09,45.5,0.0383,86.34,143.26,127.48,109.04,512,512
+att_027,attributes,a tarnished brass doorknob,107.28,39.74,0.0488,79.42,110.11,108.25,94.94,512,512
+att_028,attributes,a freshly painted fence,125.94,67.92,0.2135,76.54,133.3,124.67,113.16,512,512
+att_029,attributes,a weathered wooden bench,94.25,51.89,0.2558,81.77,106.44,91.5,76.46,512,512
+att_030,attributes,a sparkling clean window,114.75,70.23,0.225,95.27,100.12,126.68,91.76,512,512
+att_031,attributes,a tiny porcelain figurine,123.59,31.82,0.0197,13.58,126.28,123.2,118.72,512,512
+att_032,attributes,a massive oak tree,112.33,73.62,0.1958,99.78,111.59,115.38,98.53,512,512
+att_033,attributes,a miniature toy car,95.73,59.64,0.3012,127.46,105.94,92.66,84.75,512,512
+att_034,attributes,a large canvas painting,123.67,48.82,0.0717,69.9,135.98,118.01,120.55,512,512
+att_035,attributes,a small pocket watch,108.32,63.24,0.0775,70.82,118.15,106.78,90.45,512,512
+att_036,attributes,a giant teddy bear,112.99,62.92,0.1426,74.71,124.37,110.75,94.63,512,512
+att_037,attributes,a compact digital camera,99.27,50.1,0.2545,149.09,109.16,102.74,55.49,512,512
+att_038,attributes,a oversized sunglasses,105.05,71.97,0.0806,72.16,122.4,98.8,91.75,512,512
+att_039,attributes,a thin paperback book,103.28,71.43,0.0596,91.0,106.61,104.71,87.17,512,512
+att_040,attributes,a thick wool blanket,129.72,60.45,0.1617,36.42,136.13,127.56,124.14,512,512
+att_041,attributes,a crystal clear diamond,140.44,45.95,0.0494,18.16,137.66,141.29,143.32,512,512
+att_042,attributes,a marble white sculpture,140.1,27.38,0.0185,13.99,142.37,139.75,135.69,512,512
+att_043,attributes,a bronze horse statue,117.13,66.5,0.0591,85.56,127.29,114.52,103.8,512,512
+att_044,attributes,a ceramic flower pot,108.47,63.38,0.2501,84.62,114.68,108.36,92.76,512,512
+att_045,attributes,a plastic water bottle,151.8,34.69,0.0819,34.58,149.04,153.71,149.24,512,512
+att_046,attributes,a wooden rocking chair,87.93,61.12,0.1243,149.09,89.94,92.59,58.67,512,512
+att_047,attributes,a metal filing cabinet,91.28,63.97,0.064,130.03,119.94,80.02,74.08,512,512
+att_048,attributes,a glass chandelier,109.84,36.77,0.1424,73.39,120.83,108.91,85.84,512,512
+att_049,attributes,a rubber duck toy,120.54,35.55,0.0219,58.99,120.39,122.3,111.82,512,512
+att_050,attributes,a bamboo cutting board,130.92,47.48,0.0917,144.91,159.59,123.62,93.35,512,512
+att_051,attributes,a glowing neon sign,122.14,57.7,0.0882,146.58,130.76,117.75,122.18,512,512
+att_052,attributes,a dim candlelit room,106.07,41.79,0.0511,95.5,122.05,102.37,83.17,512,512
+att_053,attributes,a bright sunny beach,128.38,45.94,0.0455,93.73,115.55,134.55,130.2,512,512
+att_054,attributes,a frozen ice sculpture,144.71,63.85,0.0863,61.19,129.12,148.72,165.02,512,512
+att_055,attributes,a steaming hot coffee,93.35,75.72,0.0614,144.0,116.85,86.53,66.86,512,512
+att_056,attributes,a cold glass of lemonade,118.0,43.12,0.0654,65.71,118.13,118.85,113.33,512,512
+att_057,attributes,a warm fireplace,120.8,78.34,0.0521,81.74,138.26,115.51,102.23,512,512
+att_058,attributes,a cool shaded porch,119.41,49.6,0.1563,38.87,119.44,120.38,114.32,512,512
+att_059,attributes,a blazing bonfire,84.9,59.55,0.0689,124.39,113.36,75.24,60.0,512,512
+att_060,attributes,a frosty winter window,141.27,72.76,0.2192,91.62,131.91,144.88,147.22,512,512
+att_061,attributes,a cheerful yellow sunflower,124.18,45.01,0.0431,163.24,118.13,129.08,114.91,512,512
+att_062,attributes,a gloomy gray sky,108.57,58.12,0.0384,11.91,109.29,108.18,108.77,512,512
+att_063,attributes,a peaceful zen garden,105.38,61.26,0.166,138.82,103.92,113.82,65.74,512,512
+att_064,attributes,an elegant crystal vase,108.59,52.78,0.1142,118.12,137.48,97.21,91.4,512,512
+att_065,attributes,a cozy reading nook,124.27,69.45,0.1338,85.13,134.94,121.45,110.82,512,512
+att_066,attributes,a dramatic red curtain,108.87,75.0,0.0729,154.78,149.1,93.43,82.81,512,512
+att_067,attributes,a serene lake reflection,93.37,66.31,0.1169,128.71,93.24,93.25,94.32,512,512
+att_068,attributes,a vibrant market stall,120.05,67.64,0.2172,154.38,145.89,111.77,94.92,512,512
+att_069,attributes,a mysterious dark alley,86.92,71.14,0.1273,118.39,100.7,78.73,92.94,512,512
+att_070,attributes,a romantic candlelit dinner,99.8,71.27,0.0807,127.94,121.85,93.91,72.13,512,512
+att_071,attributes,a small rusty key,121.72,40.72,0.0253,34.16,126.15,120.49,116.37,512,512
+att_072,attributes,a large fluffy pillow,138.67,53.54,0.0528,28.0,142.0,137.4,136.48,512,512
+att_073,attributes,a old wooden music box,102.97,53.01,0.0723,113.57,128.11,95.37,76.22,512,512
+att_074,attributes,a new shiny bicycle,115.56,58.6,0.1501,60.09,124.28,111.66,112.72,512,512
+att_075,attributes,a tiny delicate teacup,145.01,33.69,0.0086,60.71,135.26,150.58,141.89,512,512
+att_076,attributes,a huge ancient tree,110.94,62.08,0.2896,105.27,119.6,112.67,79.33,512,512
+att_077,attributes,a soft warm blanket,100.83,59.62,0.2184,89.12,119.62,94.72,82.97,512,512
+att_078,attributes,a hard cold marble floor,129.6,44.67,0.0441,49.93,136.22,128.79,116.42,512,512
+att_079,attributes,a light airy curtain,111.15,57.21,0.072,91.65,106.28,114.26,107.9,512,512
+att_080,attributes,a heavy ornate chandelier,98.02,66.33,0.1417,100.26,116.61,93.66,71.73,512,512
+att_081,attributes,a fuzzy green tennis ball,101.35,43.02,0.341,37.17,104.06,102.37,88.94,512,512
+att_082,attributes,a sleek modern laptop,131.53,67.53,0.0475,39.75,127.66,133.82,129.9,512,512
+att_083,attributes,a bumpy orange peel,106.56,30.95,0.0088,128.25,142.37,95.88,67.59,512,512
+att_084,attributes,a silky blue ribbon,124.23,58.76,0.2833,123.24,133.63,118.96,126.69,512,512
+att_085,attributes,a coarse sand paper,123.66,33.13,0.0062,57.14,134.39,121.36,107.44,512,512
+att_086,attributes,a smooth river stone,124.75,31.12,0.0691,25.34,125.62,124.63,123.16,512,512
+att_087,attributes,a prickly cactus plant,97.64,59.35,0.1684,86.53,91.35,104.14,80.61,512,512
+att_088,attributes,a feathery peacock tail,110.82,54.92,0.2719,89.61,114.3,110.59,102.88,512,512
+att_089,attributes,a scaly fish skin,105.21,47.88,0.274,17.56,106.75,105.02,102.16,512,512
+att_090,attributes,a spongy yellow cheese,97.37,60.13,0.0166,110.15,116.64,96.27,52.47,512,512
+rel_001,relations,a cat sitting on a sofa,106.85,50.36,0.0255,93.12,121.75,103.55,84.73,512,512
+rel_002,relations,a book on a wooden table,90.43,55.54,0.0695,74.46,101.36,87.77,75.48,512,512
+rel_003,relations,a lamp next to a bed,123.66,51.97,0.0307,44.64,127.45,122.71,118.54,512,512
+rel_004,relations,a cup on a saucer,123.0,60.6,0.0771,49.88,117.16,124.77,129.26,512,512
+rel_005,relations,a bird perched on a branch,112.97,50.12,0.0522,60.64,114.31,115.44,96.68,512,512
+rel_006,relations,a clock hanging on a wall,106.41,60.71,0.1107,67.24,114.49,103.29,101.3,512,512
+rel_007,relations,a dog lying under a tree,117.0,63.54,0.164,118.97,120.77,121.5,83.89,512,512
+rel_008,relations,a vase in front of a window,128.95,58.59,0.0285,61.59,125.01,130.52,131.18,512,512
+rel_009,relations,a phone beside a laptop,109.06,53.1,0.056,152.59,136.99,99.74,83.69,512,512
+rel_010,relations,a hat on a person's head,119.69,51.61,0.1031,78.61,140.11,111.37,108.96,512,512
+rel_011,relations,a painting above a fireplace,120.12,66.41,0.0691,97.73,132.95,117.2,101.52,512,512
+rel_012,relations,a rug under a coffee table,103.81,57.12,0.0866,97.75,111.94,101.28,95.46,512,512
+rel_013,relations,a chandelier above a dining table,136.2,37.84,0.0718,56.76,144.29,134.2,125.24,512,512
+rel_014,relations,a shelf above a desk,104.32,37.43,0.1665,29.43,109.25,103.2,97.17,512,512
+rel_015,relations,a cat under a chair,144.23,58.94,0.1088,41.41,141.81,144.16,151.07,512,512
+rel_016,relations,a plane above the clouds,124.42,53.67,0.0626,49.03,130.13,123.42,114.61,512,512
+rel_017,relations,a submarine below the water,118.43,64.57,0.0437,38.47,126.63,114.84,115.4,512,512
+rel_018,relations,a bird above a lake,127.06,60.21,0.1387,66.15,140.97,122.61,113.47,512,512
+rel_019,relations,a treasure under the sand,131.07,55.98,0.0291,83.2,143.31,128.05,114.6,512,512
+rel_020,relations,a rainbow above a mountain,98.03,67.95,0.0841,94.93,113.26,93.08,83.57,512,512
+rel_021,relations,a ball inside a basket,75.65,56.66,0.1373,106.47,91.74,70.15,61.69,512,512
+rel_022,relations,a flower in a vase,105.93,39.34,0.0529,74.32,120.96,101.79,87.75,512,512
+rel_023,relations,a key on a keychain,83.66,53.7,0.0934,53.4,81.32,83.66,89.77,512,512
+rel_024,relations,a fish inside a bowl,144.78,47.62,0.1282,77.48,134.15,145.85,167.18,512,512
+rel_025,relations,a bird inside a cage,113.78,68.73,0.1054,44.95,113.27,114.85,109.65,512,512
+rel_026,relations,a car inside a garage,133.68,84.2,0.117,72.91,143.97,128.91,131.01,512,512
+rel_027,relations,a person inside a phone booth,109.03,81.62,0.1973,134.7,98.6,114.14,110.15,512,512
+rel_028,relations,a letter inside an envelope,125.55,66.83,0.0101,72.51,130.48,122.73,126.99,512,512
+rel_029,relations,a coin inside a jar,112.86,67.91,0.1055,80.24,122.47,110.41,100.32,512,512
+rel_030,relations,a plant inside a terrarium,114.64,67.33,0.1613,106.06,117.03,117.31,94.59,512,512
+rel_031,relations,a pen on a notebook,95.99,64.74,0.22,100.35,113.52,90.11,80.32,512,512
+rel_032,relations,a pillow on a chair,123.11,57.5,0.0278,39.29,124.8,123.3,117.68,512,512
+rel_033,relations,a shoe under a bed,150.74,63.26,0.0663,39.85,154.64,148.62,151.47,512,512
+rel_034,relations,a bag next to a door,122.23,50.19,0.0367,28.85,127.73,121.07,113.85,512,512
+rel_035,relations,a glass on a coaster,105.16,51.29,0.1695,56.92,102.05,106.63,105.79,512,512
+rel_036,relations,a watch on a wrist,125.46,63.91,0.0484,53.41,136.94,122.16,112.43,512,512
+rel_037,relations,a book between two bookends,132.43,86.21,0.0708,98.35,145.88,127.09,124.58,512,512
+rel_038,relations,a child between two parents,128.12,50.2,0.084,97.04,139.43,122.73,126.2,512,512
+rel_039,relations,a house between two trees,91.66,59.53,0.2778,113.82,89.2,99.3,58.71,512,512
+rel_040,relations,a river between two mountains,105.58,62.38,0.1379,56.12,102.07,106.79,108.55,512,512
+rel_041,relations,a person in front of a building,127.86,65.11,0.1221,22.27,131.59,127.05,122.25,512,512
+rel_042,relations,a car behind a truck,109.15,66.39,0.1888,99.03,114.85,108.59,97.06,512,512
+rel_043,relations,a dog in front of a house,125.49,69.28,0.1804,85.76,126.11,126.48,118.81,512,512
+rel_044,relations,a tree behind a fence,112.59,42.8,0.2683,62.88,104.98,120.87,89.87,512,512
+rel_045,relations,a statue in front of a museum,127.1,78.38,0.1348,103.1,122.06,129.49,128.03,512,512
+rel_046,relations,a boat behind an island,155.81,45.98,0.0612,59.15,148.15,157.87,165.34,512,512
+rel_047,relations,a moon behind clouds,127.61,32.61,0.0066,66.64,113.66,131.94,141.92,512,512
+rel_048,relations,a sun behind mountains,96.94,48.34,0.0177,138.72,113.75,94.33,66.27,512,512
+rel_049,relations,a person behind a counter,112.33,74.14,0.0956,74.97,123.14,110.05,95.68,512,512
+rel_050,relations,a cat behind a curtain,120.6,49.37,0.0521,52.86,134.45,115.82,108.9,512,512
+rel_051,relations,a laptop on a desk near a window,118.38,85.74,0.0537,93.51,116.8,119.34,117.66,512,512
+rel_052,relations,a cat sleeping on a pillow on a bed,123.99,60.72,0.0499,49.33,132.75,121.46,114.03,512,512
+rel_053,relations,flowers in a vase on a table by the window,125.94,58.25,0.0459,71.63,136.89,124.03,107.1,512,512
+rel_054,relations,books stacked on a shelf above a fireplace,110.84,73.12,0.1009,112.1,134.48,101.8,95.41,512,512
+rel_055,relations,a dog sitting next to a person on a bench,117.33,71.26,0.16,104.89,111.1,123.44,102.17,512,512
+rel_056,relations,a bird flying over a lake near mountains,140.26,59.6,0.1747,77.0,125.61,145.11,153.68,512,512
+rel_057,relations,a car parked in front of a house with a garden,126.47,69.58,0.1781,124.21,131.99,130.45,91.5,512,512
+rel_058,relations,a child playing under a tree in a park,114.6,80.62,0.2258,94.14,114.82,119.89,86.75,512,512
+rel_059,relations,a coffee cup on a saucer on a wooden table,115.53,47.71,0.0978,124.51,148.51,105.45,80.96,512,512
+rel_060,relations,a painting hanging above a sofa in a living room,133.66,64.37,0.061,33.21,133.66,134.3,130.31,512,512
+rel_061,relations,a bridge over a river,108.02,55.84,0.2324,106.84,108.63,113.78,76.74,512,512
+rel_062,relations,a tunnel through a mountain,87.14,66.31,0.1192,107.25,95.0,85.95,72.61,512,512
+rel_063,relations,a path along a beach,90.12,64.71,0.2508,114.12,92.7,92.99,68.53,512,512
+rel_064,relations,a fence around a garden,112.98,55.23,0.2901,115.82,119.18,118.09,70.42,512,512
+rel_065,relations,a frame around a picture,124.47,73.8,0.197,20.26,124.68,124.1,125.73,512,512
+rel_066,relations,a border around a page,135.07,60.25,0.1662,47.12,142.22,134.5,119.22,512,512
+rel_067,relations,a ring around a finger,132.33,41.61,0.0108,85.38,160.73,121.35,114.38,512,512
+rel_068,relations,a scarf around a neck,133.99,76.0,0.1459,47.78,140.4,131.55,129.69,512,512
+rel_069,relations,a belt around a waist,117.49,42.5,0.0226,36.95,123.89,114.93,113.78,512,512
+rel_070,relations,a leash around a dog,104.3,63.72,0.1452,118.76,101.64,110.46,79.52,512,512
+rel_071,relations,a person walking towards a door,87.48,67.3,0.1161,162.67,120.94,73.69,70.72,512,512
+rel_072,relations,a car driving away from a city,114.93,66.9,0.1658,70.92,117.46,113.23,117.06,512,512
+rel_073,relations,a bird flying into a tree,110.78,68.6,0.3083,108.38,106.07,115.19,100.39,512,512
+rel_074,relations,a ball rolling down a hill,99.6,54.38,0.3138,146.47,124.41,95.23,57.04,512,512
+rel_075,relations,a leaf falling from a branch,100.79,71.96,0.1147,159.8,119.13,99.93,57.14,512,512
+rel_076,relations,smoke rising from a chimney,108.2,36.95,0.1718,60.96,115.97,106.28,97.7,512,512
+rel_077,relations,water flowing over rocks,95.33,71.84,0.1561,105.91,102.83,93.77,83.71,512,512
+rel_078,relations,light shining through a window,101.6,72.93,0.2138,42.17,100.16,103.6,95.13,512,512
+rel_079,relations,shadows cast across a floor,110.56,32.55,0.0305,36.68,108.68,109.55,120.65,512,512
+rel_080,relations,reflections in a puddle,134.15,48.98,0.17,121.08,115.12,140.69,150.44,512,512
+rel_081,relations,a family gathered around a dinner table,94.84,71.57,0.1276,122.73,110.75,90.33,76.35,512,512
+rel_082,relations,students sitting in rows in a classroom,114.74,68.45,0.1178,70.89,122.54,112.52,105.73,512,512
+rel_083,relations,boats floating on a calm harbor,127.13,65.65,0.1584,89.55,118.03,132.29,124.38,512,512
+rel_084,relations,mountains reflected in a still lake,101.56,59.02,0.2038,108.69,95.61,103.71,106.12,512,512
+rel_085,relations,stars scattered across the night sky,91.0,51.17,0.0782,152.1,129.83,78.15,55.28,512,512
+rel_086,relations,leaves covering a forest floor,79.73,53.6,0.3071,123.14,93.1,77.02,58.57,512,512
+rel_087,relations,clouds drifting across a blue sky,124.13,32.54,0.0081,72.73,108.48,128.08,144.82,512,512
+rel_088,relations,waves crashing against rocky shores,137.65,60.65,0.1241,60.72,124.04,141.62,152.86,512,512
+rel_089,relations,birds perched along a telephone wire,130.24,75.19,0.1227,25.93,130.39,130.04,130.76,512,512
+rel_090,relations,flowers blooming along a garden path,114.54,49.02,0.2981,171.03,129.73,113.7,79.06,512,512
+cou_001,counting,one red apple on a plate,144.48,60.27,0.0607,79.24,156.49,141.66,127.59,512,512
+cou_002,counting,two cats sitting together,111.72,30.68,0.0278,107.92,122.49,110.2,91.3,512,512
+cou_003,counting,three flowers in a vase,122.15,43.11,0.0405,212.03,126.43,118.68,128.76,512,512
+cou_004,counting,one tall tree in a field,122.07,73.1,0.1087,109.97,138.67,116.16,108.96,512,512
+cou_005,counting,two birds on a branch,118.18,47.85,0.1262,122.05,142.16,110.08,96.92,512,512
+cou_006,counting,three candles on a cake,115.32,51.93,0.0667,85.29,110.42,121.39,96.88,512,512
+cou_007,counting,one boat on a lake,99.33,30.32,0.0246,75.33,113.39,96.34,77.84,512,512
+cou_008,counting,two shoes on the floor,129.15,50.13,0.0758,13.16,129.87,128.87,129.57,512,512
+cou_009,counting,three books on a shelf,103.55,49.55,0.0059,85.7,116.09,101.27,82.37,512,512
+cou_010,counting,one sun in the sky,97.77,43.5,0.0222,57.8,107.05,94.87,88.15,512,512
+cou_011,counting,four books stacked together,89.68,57.24,0.178,58.94,85.48,93.78,79.54,512,512
+cou_012,counting,five colorful balloons,111.74,60.24,0.0273,86.51,113.17,112.33,104.81,512,512
+cou_013,counting,six pencils in a cup,92.05,46.5,0.2704,84.36,97.14,89.81,90.23,512,512
+cou_014,counting,four chairs around a table,141.47,49.65,0.0956,117.68,140.53,144.7,127.23,512,512
+cou_015,counting,five fingers on a hand,108.02,79.67,0.0731,95.68,103.73,112.64,95.47,512,512
+cou_016,counting,six eggs in a carton,131.94,51.33,0.0946,77.85,132.01,136.11,110.3,512,512
+cou_017,counting,four wheels on a car,107.54,61.39,0.177,29.57,109.32,107.1,105.16,512,512
+cou_018,counting,five petals on a flower,136.43,54.17,0.0557,92.15,134.23,140.39,121.84,512,512
+cou_019,counting,six strings on a guitar,124.32,63.07,0.1279,106.04,145.17,115.15,116.83,512,512
+cou_020,counting,four legs on a dog,108.29,60.14,0.2372,101.59,111.07,112.51,79.23,512,512
+cou_021,counting,seven stars in the sky,107.79,46.04,0.0489,80.7,103.6,108.23,116.51,512,512
+cou_022,counting,eight tentacles on an octopus,118.56,58.83,0.0998,106.88,110.22,118.99,138.18,512,512
+cou_023,counting,nine planets in space,118.02,90.08,0.0832,128.01,129.4,113.78,110.07,512,512
+cou_024,counting,ten fingers on two hands,107.59,37.86,0.0175,56.91,115.59,105.72,96.27,512,512
+cou_025,counting,seven colors in a rainbow,113.65,79.63,0.0373,187.2,138.75,105.93,87.52,512,512
+cou_026,counting,eight slices of pizza,120.92,74.1,0.1209,100.42,151.48,111.74,88.01,512,512
+cou_027,counting,nine squares in a grid,109.54,65.49,0.0399,6.45,110.59,108.95,109.52,512,512
+cou_028,counting,ten bowling pins,109.47,61.8,0.0572,151.06,101.46,112.49,114.82,512,512
+cou_029,counting,seven days on a calendar,131.69,98.48,0.1357,59.58,131.62,131.59,132.7,512,512
+cou_030,counting,eight windows on a building,111.2,59.65,0.2354,126.19,120.29,110.17,92.63,512,512
+cou_031,counting,a pair of glasses,96.61,37.0,0.0345,128.82,123.42,88.94,65.84,512,512
+cou_032,counting,a pair of socks,96.22,54.63,0.0409,180.82,122.33,88.07,69.69,512,512
+cou_033,counting,a set of keys,103.6,70.72,0.0475,71.33,110.93,103.0,87.46,512,512
+cou_034,counting,a deck of cards,120.75,105.7,0.1219,30.03,124.52,118.99,119.61,512,512
+cou_035,counting,a bunch of grapes,128.53,64.05,0.069,153.08,109.43,140.11,119.01,512,512
+cou_036,counting,a flock of birds,116.92,91.58,0.1781,73.46,120.32,117.22,106.48,512,512
+cou_037,counting,a herd of sheep,102.35,66.22,0.1505,61.92,113.64,99.18,89.11,512,512
+cou_038,counting,a school of fish,104.03,86.22,0.1531,161.15,99.81,106.11,104.39,512,512
+cou_039,counting,a swarm of bees,107.62,57.59,0.3308,125.12,128.25,104.61,69.01,512,512
+cou_040,counting,a pack of wolves,118.11,64.17,0.1649,85.5,129.06,117.4,93.06,512,512
+cou_041,counting,three oranges on a plate,135.96,42.83,0.0268,133.48,134.59,136.2,138.33,512,512
+cou_042,counting,two red apples and one green apple,104.56,58.33,0.0634,140.85,103.01,113.36,63.37,512,512
+cou_043,counting,five birds on a wire,123.1,20.61,0.0153,20.35,121.1,122.7,130.48,512,512
+cou_044,counting,four cookies on a plate,115.04,73.31,0.0656,128.75,141.32,108.66,79.01,512,512
+cou_045,counting,six fish in a bowl,111.28,53.18,0.1509,152.63,121.56,110.48,88.45,512,512
+cou_046,counting,three trees in a row,117.0,65.19,0.2495,144.32,127.81,119.96,73.41,512,512
+cou_047,counting,two bicycles parked together,119.56,64.79,0.198,86.33,133.85,115.57,102.67,512,512
+cou_048,counting,four butterflies flying,130.3,39.74,0.0704,122.29,123.57,129.51,152.07,512,512
+cou_049,counting,three puppies playing,124.46,52.91,0.161,97.48,110.06,137.84,93.34,512,512
+cou_050,counting,five ducks in a pond,98.32,47.74,0.1845,96.91,100.83,99.56,85.37,512,512
+cou_051,counting,two slices of bread,121.3,75.46,0.1414,115.65,144.99,114.49,94.25,512,512
+cou_052,counting,three scoops of ice cream,110.36,69.32,0.0309,126.42,132.45,102.17,94.6,512,512
+cou_053,counting,four pieces of sushi,118.55,65.58,0.1386,60.26,132.25,114.16,105.23,512,512
+cou_054,counting,five strawberries in a bowl,140.71,50.84,0.1427,50.66,148.5,137.01,139.35,512,512
+cou_055,counting,six donuts in a box,116.02,71.19,0.1193,135.02,144.13,106.75,90.01,512,512
+cou_056,counting,two cups of coffee,113.93,85.5,0.1,120.85,129.94,109.03,97.19,512,512
+cou_057,counting,three cupcakes on a stand,133.55,60.2,0.0714,98.62,155.93,125.62,115.67,512,512
+cou_058,counting,four slices of pizza,101.18,73.07,0.1459,174.36,148.11,84.26,65.26,512,512
+cou_059,counting,five cherries on top,111.08,56.02,0.072,140.71,124.88,109.9,80.95,512,512
+cou_060,counting,two sandwiches on a plate,146.81,70.1,0.0785,98.22,154.89,146.6,126.73,512,512
+cou_061,counting,three pencils and two erasers,86.24,32.24,0.0082,25.41,91.59,83.3,87.51,512,512
+cou_062,counting,four red balls and two blue balls,95.5,44.3,0.1922,110.63,104.4,93.05,84.79,512,512
+cou_063,counting,five tall buildings,112.87,82.01,0.2247,103.63,95.09,117.81,134.02,512,512
+cou_064,counting,six windows in a row,133.91,92.04,0.1441,15.18,133.77,133.85,134.51,512,512
+cou_065,counting,two doors side by side,110.78,88.0,0.2172,50.66,111.3,110.51,111.07,512,512
+cou_066,counting,three stairs going up,104.62,81.16,0.1974,28.48,105.29,104.24,104.8,512,512
+cou_067,counting,four picture frames on a wall,155.51,63.24,0.0469,12.41,155.81,155.38,155.55,512,512
+cou_068,counting,five coins on a table,93.87,63.04,0.0855,152.67,114.15,89.27,64.34,512,512
+cou_069,counting,two clocks showing different times,122.17,77.3,0.0557,73.08,130.8,119.94,110.91,512,512
+cou_070,counting,three mirrors reflecting,100.7,42.38,0.1936,98.51,110.07,100.44,77.42,512,512
+cou_071,counting,four seasons in pictures,119.8,72.77,0.1791,175.43,129.64,119.93,93.38,512,512
+cou_072,counting,three mountain peaks,110.69,50.55,0.1344,108.67,111.23,108.44,120.82,512,512
+cou_073,counting,two rivers meeting,118.05,41.58,0.131,55.63,115.22,121.56,107.37,512,512
+cou_074,counting,five clouds in the sky,112.34,68.13,0.0287,173.75,117.69,111.38,103.24,512,512
+cou_075,counting,four leaves on a stem,125.45,34.61,0.3082,50.67,134.66,123.63,110.58,512,512
+cou_076,counting,six waves on a beach,120.15,47.34,0.1379,93.4,114.34,121.14,130.34,512,512
+cou_077,counting,three stones stacked,121.75,49.64,0.0127,38.95,126.03,120.49,116.64,512,512
+cou_078,counting,two rainbows crossing,121.78,50.95,0.0645,132.82,123.63,123.32,109.02,512,512
+cou_079,counting,four trees in autumn,84.48,59.92,0.2245,143.63,105.62,79.44,54.94,512,512
+cou_080,counting,five snowflakes falling,116.82,75.42,0.1277,108.29,101.94,117.42,152.76,512,512
+cou_081,counting,two horses running,134.11,52.96,0.1339,92.59,148.4,133.6,99.31,512,512
+cou_082,counting,three elephants walking,121.04,80.04,0.1873,87.26,134.05,117.68,104.29,512,512
+cou_083,counting,four penguins standing,117.82,60.88,0.0647,35.01,121.75,116.56,114.02,512,512
+cou_084,counting,five flamingos in water,151.56,42.42,0.0496,130.77,132.37,156.33,177.3,512,512
+cou_085,counting,six ladybugs on a leaf,97.2,33.36,0.0783,95.33,96.05,101.85,76.21,512,512
+cou_086,counting,two owls on a branch,134.57,47.67,0.1222,81.22,121.09,141.4,134.71,512,512
+cou_087,counting,three frogs on lily pads,111.35,67.77,0.1056,188.25,93.1,123.28,97.84,512,512
+cou_088,counting,four rabbits in grass,142.51,49.74,0.1474,154.67,109.88,162.24,126.47,512,512
+cou_089,counting,five goldfish swimming,118.22,40.73,0.0581,203.5,90.47,126.76,147.07,512,512
+cou_090,counting,two turtles on a log,110.34,69.2,0.2072,129.95,117.89,110.68,88.8,512,512
+cou_091,counting,seven musical notes,112.85,39.64,0.0335,6.11,114.18,112.11,112.91,512,512
+cou_092,counting,eight chess pieces,112.69,76.09,0.0444,123.02,116.74,110.88,111.38,512,512
+cou_093,counting,nine circles in a pattern,105.62,90.25,0.3417,51.71,105.34,105.58,106.56,512,512
+cou_094,counting,ten dots in two rows,130.2,117.41,0.1166,64.28,130.06,130.22,130.44,512,512
+cou_095,counting,three hearts in a row,89.99,34.69,0.01,26.99,97.2,86.29,90.05,512,512
+cou_096,counting,four arrows pointing,100.39,38.96,0.0275,87.88,114.85,97.15,79.0,512,512
+cou_097,counting,five gears interlocking,129.17,68.62,0.0999,29.62,131.06,128.31,128.74,512,512
+cou_098,counting,six hexagons together,113.38,60.53,0.0886,20.38,114.17,113.13,112.68,512,512
+cou_099,counting,two triangles overlapping,98.5,26.74,0.0912,12.08,100.75,97.87,95.97,512,512
+cou_100,counting,four squares in a grid,149.16,110.82,0.1572,45.01,150.24,152.49,129.2,512,512
+sty_001,styles,a watercolor painting of a mountain,121.59,43.03,0.016,62.1,107.44,126.78,132.01,512,512
+sty_002,styles,an oil painting of a sunset,94.79,29.98,0.0065,131.35,121.74,83.96,79.88,512,512
+sty_003,styles,a pencil sketch of a portrait,114.83,32.92,0.0449,4.15,115.62,114.51,114.94,512,512
+sty_004,styles,an impressionist painting of a garden,102.01,57.86,0.1237,140.35,137.16,80.78,119.17,512,512
+sty_005,styles,a realistic painting of a tiger,131.56,65.32,0.1456,70.59,132.8,132.11,125.52,512,512
+sty_006,styles,a charcoal drawing of a tree,102.86,37.83,0.197,111.58,95.1,110.56,83.55,512,512
+sty_007,styles,a pastel drawing of flowers,120.71,46.91,0.0916,16.18,121.92,120.5,119.82,512,512
+sty_008,styles,a renaissance painting of angels,107.41,87.9,0.0981,160.14,129.62,102.65,73.68,512,512
+sty_009,styles,a baroque painting of a feast,108.21,55.01,0.0202,107.48,131.36,100.55,86.92,512,512
+sty_010,styles,an acrylic painting of the ocean,103.48,60.43,0.1782,173.63,136.51,94.06,65.31,512,512
+sty_011,styles,a digital art of a city,124.86,55.29,0.0854,4.54,125.3,124.58,125.11,512,512
+sty_012,styles,an abstract painting with circles,102.9,48.59,0.133,110.57,79.72,110.7,123.55,512,512
+sty_013,styles,a pop art portrait,137.74,36.13,0.0325,67.7,133.48,138.78,143.6,512,512
+sty_014,styles,a cubist painting of a face,145.86,82.93,0.0666,73.83,155.92,143.25,132.93,512,512
+sty_015,styles,a surrealist painting of a clock,120.89,40.99,0.091,11.93,123.14,120.29,118.19,512,512
+sty_016,styles,a minimalist design of a chair,119.51,26.85,0.0043,78.39,135.56,112.21,114.98,512,512
+sty_017,styles,a pixel art of a spaceship,97.37,57.27,0.0965,125.1,116.87,93.21,67.58,512,512
+sty_018,styles,a vector illustration of a logo,142.07,83.8,0.067,126.51,126.84,148.17,150.65,512,512
+sty_019,styles,a graffiti style mural,138.39,57.6,0.0972,12.94,139.09,138.1,138.28,512,512
+sty_020,styles,a contemporary art installation,126.15,54.16,0.0223,27.65,128.91,125.28,123.46,512,512
+sty_021,styles,a photograph of a beach,100.55,28.86,0.0792,116.84,128.36,92.6,68.57,512,512
+sty_022,styles,a vintage photograph of a street,114.02,70.08,0.1136,42.14,118.95,112.81,107.29,512,512
+sty_023,styles,a black and white photograph of a person,123.75,59.47,0.0401,13.65,124.45,123.46,123.63,512,512
+sty_024,styles,a macro photograph of an insect,83.12,58.03,0.2575,55.79,88.07,82.35,74.12,512,512
+sty_025,styles,a long exposure photograph of stars,94.37,50.22,0.0901,134.27,117.64,88.92,61.44,512,512
+sty_026,styles,a portrait photograph with bokeh,125.15,44.91,0.0015,2.75,125.17,125.02,125.79,512,512
+sty_027,styles,a landscape photograph at golden hour,86.61,39.67,0.1568,180.82,119.89,79.57,35.56,512,512
+sty_028,styles,a street photography scene,112.34,64.86,0.1375,70.18,125.31,107.86,101.33,512,512
+sty_029,styles,an aerial photograph of a city,121.86,43.49,0.2472,30.75,122.51,121.53,121.83,512,512
+sty_030,styles,an underwater photograph of coral,91.2,61.12,0.2273,173.09,77.71,95.17,106.11,512,512
+sty_031,styles,a cartoon drawing of a robot,146.66,119.6,0.0961,12.37,146.27,146.87,146.49,512,512
+sty_032,styles,a manga style drawing of a hero,130.64,67.6,0.1074,15.9,131.14,130.41,130.84,512,512
+sty_033,styles,a comic book illustration of a superhero,93.49,66.44,0.1035,199.87,108.35,86.25,91.84,512,512
+sty_034,styles,a children's book illustration of animals,140.95,33.17,0.0485,140.62,125.61,152.3,122.7,512,512
+sty_035,styles,a botanical illustration of a rose,119.65,22.19,0.0227,39.44,115.88,123.26,110.91,512,512
+sty_036,styles,a scientific illustration of anatomy,111.68,75.38,0.1442,139.03,121.04,104.53,123.98,512,512
+sty_037,styles,a fashion illustration of a dress,139.47,41.42,0.0814,11.2,141.69,138.85,137.64,512,512
+sty_038,styles,a architectural drawing of a building,150.17,77.32,0.224,30.32,148.32,150.68,152.25,512,512
+sty_039,styles,a technical drawing of a machine,149.89,75.1,0.0904,22.08,149.73,149.91,150.15,512,512
+sty_040,styles,a storyboard sketch of a scene,115.75,28.95,0.0866,4.95,116.29,115.55,116.0,512,512
+sty_041,styles,a japanese ink wash painting of bamboo,115.28,42.21,0.0866,12.1,117.29,114.83,112.31,512,512
+sty_042,styles,a chinese calligraphy artwork,129.03,63.47,0.0552,66.21,140.38,127.5,107.17,512,512
+sty_043,styles,an indian mandala design,127.22,101.47,0.203,129.77,147.47,116.36,130.13,512,512
+sty_044,styles,an african tribal pattern,116.6,107.86,0.2107,113.64,126.93,114.2,101.83,512,512
+sty_045,styles,a native american dreamcatcher art,158.92,92.04,0.1147,68.46,168.66,155.12,152.93,512,512
+sty_046,styles,a celtic knot design,142.07,117.66,0.1205,13.85,142.21,142.39,140.01,512,512
+sty_047,styles,a persian miniature painting,114.88,50.36,0.2558,137.57,120.4,117.19,88.54,512,512
+sty_048,styles,a mexican folk art skull,103.63,61.8,0.1734,185.27,112.32,98.04,109.58,512,512
+sty_049,styles,an australian aboriginal dot painting,106.97,92.0,0.0477,81.15,118.94,104.39,88.77,512,512
+sty_050,styles,a greek mosaic pattern,122.72,83.82,0.251,108.27,139.04,120.62,90.76,512,512
+sty_051,styles,a photorealistic rendering of a car,120.53,56.38,0.0472,71.3,119.96,120.04,124.71,512,512
+sty_052,styles,a 3D render of a room,127.81,59.36,0.0627,42.9,135.64,125.39,119.77,512,512
+sty_053,styles,a low poly art of a deer,102.41,44.05,0.0364,121.15,111.89,102.89,74.97,512,512
+sty_054,styles,an isometric illustration of a house,150.77,43.63,0.1329,54.24,150.05,152.15,145.57,512,512
+sty_055,styles,a flat design icon set,133.32,35.31,0.0215,154.72,116.34,140.92,138.66,512,512
+sty_056,styles,a neon light art sign,110.95,67.4,0.0366,112.13,117.12,108.99,104.81,512,512
+sty_057,styles,a holographic display design,125.09,73.08,0.0823,105.64,115.83,127.23,138.3,512,512
+sty_058,styles,a wireframe model of a chair,147.33,54.1,0.0828,12.38,147.3,147.26,147.88,512,512
+sty_059,styles,a voxel art castle,101.62,51.5,0.0962,157.38,111.17,106.35,52.18,512,512
+sty_060,styles,a tilt shift photograph of a city,123.47,56.74,0.1406,62.57,137.32,116.36,123.74,512,512
+sty_061,styles,an art nouveau poster design,88.12,101.79,0.1408,140.05,90.01,88.19,82.76,512,512
+sty_062,styles,an art deco building facade,127.3,85.21,0.1559,83.92,132.95,125.78,120.36,512,512
+sty_063,styles,a victorian era portrait,114.99,66.52,0.1031,13.26,115.46,114.99,113.93,512,512
+sty_064,styles,a medieval illuminated manuscript,109.82,72.52,0.1794,131.4,127.66,104.73,89.27,512,512
+sty_065,styles,a 1950s advertisement style,116.78,94.59,0.0961,131.19,142.72,108.13,93.33,512,512
+sty_066,styles,a 1980s synthwave aesthetic,98.63,59.44,0.1655,211.82,133.47,71.24,148.3,512,512
+sty_067,styles,a retro futuristic scene,128.4,57.86,0.169,103.22,107.51,135.47,146.84,512,512
+sty_068,styles,a steampunk mechanical device,91.21,62.3,0.1235,118.26,108.7,87.12,66.44,512,512
+sty_069,styles,a cyberpunk city street,118.69,66.23,0.1689,95.6,113.58,118.85,131.29,512,512
+sty_070,styles,a vaporwave aesthetic image,102.14,63.3,0.1667,199.05,112.77,80.95,183.27,512,512
+sty_071,styles,an embroidery design of flowers,154.24,62.24,0.1627,104.42,172.89,146.56,145.02,512,512
+sty_072,styles,a stained glass window design,108.9,87.87,0.1463,174.62,116.73,107.47,95.77,512,512
+sty_073,styles,a wood carving of an animal,117.61,42.2,0.0379,87.91,135.67,113.35,92.18,512,512
+sty_074,styles,a metal sculpture of a figure,119.45,56.23,0.0419,49.96,124.01,118.86,110.28,512,512
+sty_075,styles,a sand art mandala,111.08,48.99,0.12,179.54,134.56,102.63,93.01,512,512
+sty_076,styles,a chalk art on pavement,142.41,57.15,0.1647,93.24,127.66,147.41,155.32,512,512
+sty_077,styles,a paper cut art silhouette,114.21,97.25,0.1665,74.26,117.36,113.18,111.22,512,512
+sty_078,styles,a collage of magazine clippings,109.75,90.34,0.1041,51.05,115.35,107.48,106.76,512,512
+sty_079,styles,a mosaic tile artwork,105.61,64.9,0.2122,150.09,111.71,105.39,90.7,512,512
+sty_080,styles,a tapestry weaving pattern,117.21,52.72,0.3133,134.33,144.27,111.38,76.2,512,512
+sty_081,styles,a double exposure photograph,107.93,48.2,0.0029,5.08,108.69,107.48,108.46,512,512
+sty_082,styles,a glitch art portrait,96.96,51.92,0.0963,188.81,118.28,86.37,95.56,512,512
+sty_083,styles,a cyanotype botanical print,127.41,64.54,0.1096,110.65,117.37,130.28,138.96,512,512
+sty_084,styles,a linocut print of a landscape,132.92,82.43,0.2533,36.39,128.19,135.28,133.15,512,512
+sty_085,styles,an etching of a cityscape,122.35,40.69,0.1601,42.26,126.2,123.52,106.14,512,512
+sty_086,styles,a woodblock print of waves,117.84,84.66,0.1233,35.38,122.61,117.62,106.55,512,512
+sty_087,styles,a screen print poster,134.46,80.09,0.1319,42.1,131.2,135.95,135.4,512,512
+sty_088,styles,a risograph printed zine cover,152.94,60.76,0.1403,110.37,165.52,145.82,156.65,512,512
+sty_089,styles,a lenticular animated image,132.34,57.06,0.1036,109.96,148.18,125.72,124.86,512,512
+sty_090,styles,an augmented reality overlay,112.26,58.84,0.0653,98.61,127.41,108.83,90.22,512,512
