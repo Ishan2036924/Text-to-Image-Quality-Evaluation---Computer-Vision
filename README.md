@@ -102,11 +102,4 @@ https://huggingface.co/spaces/Ishansri13/prompt-quality-analyzer
 Note: Currently analyzes prompt structure only.
 Image generation requires paid GPU tier.
 
-================================================================================
-CONTACT
-================================================================================
 
-For questions about running the code:
-[Your Email]
-
-================================================================================
